@@ -1,54 +1,54 @@
-<h1>Hello, I'm Justin!
+# Hi, I'm Justin Moody 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm an entry-level IT and cybersecurity professional with a solid foundation in technical support, network security, and cloud systems. I am passionate about leveraging my skills in cybersecurity practices, cloud infrastructure, and troubleshooting to contribute to innovative IT and security teams.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🔭 Currently Learning & Working On
+- Cloud security and AWS best practices
+- Penetration testing and ethical hacking techniques
+- Network monitoring and SIEM tools
+- Security compliance and regulatory readiness
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 🌱 Skills & Expertise
+- **Technical Support & Troubleshooting:** Windows/Linux environments, hardware/software support
+- **Networking & Security:** Firewalls, IDS/IPS, WAF, SIEM tools, network monitoring
+- **Cloud & Virtualization:** AWS Cloud Practitioner certified, cloud infrastructure management
+- **Scripting & Automation:** Basic scripting skills for troubleshooting and automation
+- **Security Frameworks & Policies:** Compliance checks (STIGs, SCAPs), cybersecurity policies
 
-<h2> 🤳 Connect with me:</h2>
+## 💼 Experience
+### Cyber Security Intern | Psi Inc., Baltimore, MD
+*May 2022 - Aug 2023*
+- Provided technical support and documented meeting outcomes
+- Conducted network monitoring using SIEM tools, IDS/IPS, firewalls, WAF
+- Assisted in enforcing cybersecurity policies and compliance (STIGs, SCAPs)
+- Supported hardware/software installation, upgrades, and troubleshooting
+- Collaborated on system security improvements
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Organizational & Leadership Development | INROADS Inc., Orlando, FL
+*Sep 2022 - May 2025*
+- Professional communication, teamwork, and leadership workshops
+- Supported diversity initiatives and organizational goals
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🎓 Education
+- **Bachelor of Science in Cyber Security** | Mercy University | Sep 2020 - May 2024
+- **Master of Science in Cyber Security** | Mercy University | Sep 2024 - May 2025
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 Certifications
+- **AWS Certified Cloud Practitioner** | AWS | Jul 2022 - Aug 2025
+- **Google IT Support** | Google | Jul 2025 - Sep 2025
 
-Here are some ideas to get you started:
+## 🚀 Projects & Contributions
+*(Add links to personal projects, CTF write-ups, or open-source contributions here)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect!
+I'm eager to grow my cybersecurity career and collaborate on innovative projects. Feel free to reach out!
+
+- 📫 Email: moodyjk32@outlook.com
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 🐦 Twitter: [Your Twitter Handle](#)
+
+---
+
+*Thank you for visiting my profile!*
